@@ -1,0 +1,30 @@
+{
+  "title": "读书笔记（模拟论文写作）",
+  "author": "Liu Jiang",
+  "language": "en-US",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "-sharing",
+    "-lunr",
+    "-search",
+    "-highlight",
+    "-fontsettings",
+    "theme-default"
+  ],
+  "pluginsConfig": {
+    "toc": {
+      "addClass": true
+    }
+  },
+  "pdf": {
+    "pageNumbers": true,
+    "fontFamily": "Microsoft YaHei, Arial, sans-serif",
+    "fontSize": 12,
+    "paperSize": "a4",
+    "margin": { "top": 56, "bottom": 56, "left": 62, "right": 62 },
+    "embedFonts": false
+  }
+}

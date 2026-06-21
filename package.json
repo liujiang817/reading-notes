@@ -1,0 +1,25 @@
+{
+  "name": "reading-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "serve": "honkit serve",
+      "build": "honkit build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liujiang817/reading-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/liujiang817/reading-notes/issues"
+  },
+  "homepage": "https://github.com/liujiang817/reading-notes#readme",
+  "devDependencies": {
+    "honkit": "^6.2.2"
+  }
+}
