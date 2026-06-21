@@ -1,0 +1,15 @@
+/* 隐藏 HonKit 默认页脚 */
+
+.gitbook-link {
+
+display: none !important;
+
+}
+
+/* 如果你想把整个底部区域（包括可能的其他版权信息）都清空，可以用下面这段更强的代码 */
+
+.gitbook-footer {
+
+display: none !important;
+
+}
