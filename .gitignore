@@ -1,0 +1,8 @@
+_node_modules/
+_book/
+*.log
+.DS_Store
+Thumbs.db
+*.tmp
+.obsidian
+.git
