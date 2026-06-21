@@ -1,15 +1,64 @@
-# 读书笔记（模拟学术论文写作过程）
+# 📚 读书笔记（Reading Notes）
 
-| 信息 | 内容 |
+> 用学术论文写作标准整理的读书笔记，覆盖导论、核心概念、案例分析全流程。
+
+---
+
+## 📖 在线阅读
+
+👉 [https://liujiang817.github.io/reading-notes/](https://liujiang817.github.io/reading-notes/)
+
+---
+
+## 📂 仓库结构
+
+```
+reading-notes/
+
+├─ cover.md # 在线站点封面页
+
+├─ README.md # GitHub 仓库说明（本文件）
+
+├─ SUMMARY.md # HonKit 左侧导航
+
+├─ book.json # HonKit 配置文件
+
+├─ package.json # Node.js 项目定义
+
+├─ .github/
+
+│ └─ workflows/
+
+│ └─ deploy.yml # GitHub Pages 自动部署
+
+├─ notes/ # 读书笔记正文（Obsidian 写作）
+
+│ ├─ 01-导论与问题意识.md
+
+│ ├─ 02-核心概念与框架.md
+
+│ └─ 03-案例与引文练习.md
+
+├─ attachments/ # 图片与附件（自包含）
+
+└─ styles/ # 自定义样式
+
+└─ website.css
+```
+---
+
+## 🔧 技术栈
+
+| 工具 | 用途 |
 |---|---|
-| 作者 | Liu Jiang |
-| 仓库 | [liujiang817/reading-notes](https://github.com/liujiang817/reading-notes) |
-| 更新时间 | 2026-03-14 |
-| 用途 | Obsidian标准MD写作 → Git留痕 → HonKit在线展示 → Pandoc导出DOCX |
+| Obsidian | 本地 Markdown 写作 |
+| Git + GPG | 版本控制 + 提交签名（Verified） |
+| HonKit | Markdown → 静态网站 |
+| GitHub Pages | 在线发布 |
+| Pandoc | 最终 DOCX 导出（论文提交） |
 
-## 章节导航
-- [导论与问题意识](notes/01-导论与问题意识.md)
-- [核心概念与框架](notes/02-核心概念与框架.md)
+---
 
-> 所有图片统一存放于`attachments/`目录，笔记存放于`notes/`目录，仓库自包含，可复现。
-> 所有提交均带GPG签名，可在GitHub Commits页查看Verified标识。
+## 📜 许可证
+
+本仓库笔记内容仅供学术交流使用。

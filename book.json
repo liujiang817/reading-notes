@@ -2,6 +2,7 @@
   "title": "读书笔记（模拟论文写作）",
   "author": "Liu Jiang",
   "language": "en-US",
+  "baseUrl": "/reading-notes/",
   "structure": {
     "readme": "README.md",
     "summary": "SUMMARY.md"
@@ -10,14 +11,10 @@
     "-sharing",
     "-lunr",
     "-search",
-    "-highlight",
-    "-fontsettings",
-    "theme-default"
+    "-fontsettings"
   ],
-  "pluginsConfig": {
-    "toc": {
-      "addClass": true
-    }
+  "styles": {
+    "website": "styles/website.css"
   },
   "pdf": {
     "pageNumbers": true,
