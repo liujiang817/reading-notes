@@ -14,35 +14,20 @@
 
 ```
 reading-notes/
-
 ├─ cover.md # 在线站点封面页
-
 ├─ README.md # GitHub 仓库说明（本文件）
-
 ├─ SUMMARY.md # HonKit 左侧导航
-
 ├─ book.json # HonKit 配置文件
-
 ├─ package.json # Node.js 项目定义
-
 ├─ .github/
-
 │ └─ workflows/
-
 │ └─ deploy.yml # GitHub Pages 自动部署
-
 ├─ notes/ # 读书笔记正文（Obsidian 写作）
-
 │ ├─ 01-导论与问题意识.md
-
 │ ├─ 02-核心概念与框架.md
-
 │ └─ 03-案例与引文练习.md
-
 ├─ attachments/ # 图片与附件（自包含）
-
 └─ styles/ # 自定义样式
-
 └─ website.css
 ```
 ---
