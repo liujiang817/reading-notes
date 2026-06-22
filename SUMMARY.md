@@ -20,7 +20,7 @@
 - [Ch8 Where is the proof?](notes/Ch8-Ch9-Ch10-Where-is-the-proof.md) *(Start of Sources section)*
 - [Ch9 Critically selecting and interpreting sources](notes/Ch8-Ch9-Ch10-Where-is-the-proof.md)*(Note: Merged with Ch8 as per logical flow)*
 - [Ch10 Critical, analytical reading](notes/Ch8-Ch9-Ch10-Where-is-the-proof.md)*(Note: Merged with Ch8 as per logical flow)*
-- [Ch11-Mapping-and-evaluating-argument](notes/Ch11-Mapping-and-evaluating-argument.md)(Note: Merged with Ch8 as per logical flow)*
+- [Ch11-Mapping-and-evaluating-argument](notes/Ch11-Mapping-and-evaluating-argument.md)
 - [Ch12 Critical, analytical writing](notes/Ch12-Critical-analytical-writing.md)
 
 # Part IV: Applying and reflecting
@@ -30,4 +30,4 @@
 # Appendices
 
 - [Glossary](meta/glossary.md)
-- [Fallacies-checklist](meta/fallacies-checklist)
+- [Fallacies-checklist](meta/fallacies-checklist.md)
