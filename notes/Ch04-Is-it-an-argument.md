@@ -1,9 +1,9 @@
 
-## 章节概览
+# Is it an argument
 > **页码范围**: P55 - P70
 > **核心目标**: 严格区分“描述/说明”与“论证/推理”，并掌握识别结论与前提的基本技巧。
 
-### 1. 论证 vs. 非论证 (Arguments vs. Non-arguments)
+## 论证 vs. 非论证 (Arguments vs. Non-arguments)
 这是全书最重要的分界线。批判性思维只处理**论证 (Arguments)**。
 
 | 类型 | 目的 | 典型特征 | 例子 |
@@ -14,14 +14,14 @@
 
 > **关键洞察**: 只有当作者试图**证明**某事为真（而不仅仅是告诉你某事）时，才存在论证。
 
-### 2. 论证的组成部分 (Components of an Argument)
+## 论证的组成部分 (Components of an Argument)
 一个标准的论证包含两个基本要素：
 1.  **结论 (Conclusion)**: 作者希望你接受的陈述（Claim/Point）。
 2.  **前提 (Premises)**: 用来支撑结论的理由或证据（Reasons/Support）。
 
 *   **逻辑关系**: 前提 → 结论 (Premises support the Conclusion)。
 
-### 3. 如何识别结论 (Finding the Conclusion)
+## 如何识别结论 (Finding the Conclusion)
 初学者最大的难点往往是找不到“底牌”。
 *   **位置陷阱**: 结论不一定在最后，有时在最前，有时在中间。
 *   **信号词定位法**:
@@ -30,15 +30,15 @@
     *   **意味着**: It follows that..., This indicates...
 *   **提问法**: 问自己：“作者写这段话，最终是为了让我点头同意哪一句话？”
 
-### 4. 隐含前提 (Unstated Premises / Assumptions)
+## 隐含前提 (Unstated Premises / Assumptions)
 很多论证省略了显而易见（或作者不敢明说）的前提。
 *   **例子**: "你应该雇用他，他毕业于名牌大学。"
     *   **隐含前提**: "所有名牌大学毕业生都是优秀的员工。"（这通常是个有问题的假设！）
 *   **批判性任务**: 找出这些“沉默的保镖”，检查它们是否合理。
 
-### 5. 刻意练习区 (Deliberate Practice)
+## 刻意练习区 (Deliberate Practice)
 
-#### 活动：拆解日常对话
+### 活动：拆解日常对话
 > 分析下面这句话：
 > "这款手机销量第一，所以它一定是最好的手机。"
 >
@@ -48,15 +48,11 @@
 > 4. **隐含前提**: _______________
 > 5. **漏洞**: 销量高是否一定等于质量最好？（可能是营销做得好或价格便宜）
 
----
-
 ## 关键术语卡片 (Atomic Notes)
 - **[[Premise]]**: 前提，支持结论的陈述。
 - **[[Conclusion]]**: 结论，论证试图确立的主张。
 - **[[Non-argument]]**: 非论证，如描述、说明、感叹、提问。
 - **[[Inference Indicator]]**: 推论指示词（如 Therefore），帮助定位结论。
-
----
 
 ## 关联知识图谱
 - 前置基础: [[Ch03-Whats-their-point|Ch3 他们的核心观点是什么？]]

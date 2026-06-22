@@ -1,4 +1,12 @@
-pandoc notes/Ch01-What-is-critical-thinking.md ^
+# pandoc 生成 docx 文件命令
+
+
+> 去掉了 markdown 自动生成的序号  
+> --number-sections ^
+
+```
+pandoc README.md ^
+notes/Ch01-What-is-critical-thinking.md ^
 notes/Ch02-How-well-do-you-think.md ^
 notes/Ch03-Whats-their-point.md ^
 notes/Ch04-Is-it-an-argument.md ^
@@ -11,10 +19,10 @@ notes/Ch13-Applying-critical-thinking-to-career-planning.md ^
 meta/fallacies-checklist.md ^
 meta/glossary.md ^
 -o "Critical-Thinking-Skills-读书笔记.docx" ^
---number-sections ^
 --toc ^
 --reference-doc=thesis-template.docx ^
 --resource-path=.;attachments;notes;meta ^
 --citeproc ^
 --csl=china-national-standard-gb-t-7714-2025-numeric.csl ^
 --bibliography=refs.bib
+```

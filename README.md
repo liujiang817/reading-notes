@@ -1,8 +1,9 @@
 # Critical Thinking Skills (2023, 4th Ed.)
 
-> Author: Stella Cottrell
+> **Author:** Stella Cottrell
 > 
 > **核心命题**: 批判性思维不是天生的，而是一套可以通过练习掌握的技能。
+> 
 > **阅读动机**: 
 > - 掌握学术写作的逻辑骨架。
 > - 建立个人“思维免疫系统”，抵御虚假信息。
@@ -36,7 +37,6 @@
 - [Glossary](meta/glossary.md)
 - [Fallacies-checklist](meta/fallacies-checklist.md)
 
----
 
 ## 核心概念卡片 (贯穿全书)
 *以下概念将在不同章节反复出现，建议收藏：*
@@ -44,8 +44,6 @@
 - **[The Cottrell Method|科特雷尔五步法]**: 定位(Position) -> 理由(Reasons) -> 假设(Assumptions) -> 证据(Evidence) -> 逻辑(Point)。
 - **[Close Reading|细读法]**: 不仅读字面意思，还要挖掘字里行间的隐含假设。
 - **[Argument Mapping|论证地图]**: 将复杂的线性文字转化为可视化的逻辑树。
-
----
 
 ## 全局进度追踪
 *在 Obsidian 中可用 Dataview，在 HonKit 中建议勾选：*
@@ -55,5 +53,5 @@
 - [ ] **Part III**: 掌握鉴别真伪的技能
 - [ ] **Part IV**: 输出高质量成果
 
----
+
 > **写作提示**：本书包含大量练习，请在笔记的“刻意练习区”记录你的答案，而不是直接写在书上。

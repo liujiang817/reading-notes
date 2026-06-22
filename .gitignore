@@ -18,3 +18,6 @@ Thumbs.db
 
 # Git internal (already ignored by Git, but safe to keep)
 .git/
+
+# Word 临时文件
+~$*.docx
