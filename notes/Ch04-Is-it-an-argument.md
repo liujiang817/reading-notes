@@ -1,11 +1,5 @@
----
-title: Ch4 这是论证吗？
-author: Stella Cottrell
-type: chapter
-status: In Progress
----
 
-## 📝 章节概览
+## 章节概览
 > **页码范围**: P55 - P70
 > **核心目标**: 严格区分“描述/说明”与“论证/推理”，并掌握识别结论与前提的基本技巧。
 
@@ -18,7 +12,7 @@ status: In Progress
 | **解释 (Explanation)** | 说明原因或机理。 | 回答“为什么？”(Why?) | "猫打呼噜是因为它们感到放松。" |
 | **论证 (Argument)** | **说服**你接受一个结论。 | 回答“我们应该相信什么？” | "这只猫很放松，**因为**它在打呼噜。" |
 
-> **💡 关键洞察**: 只有当作者试图**证明**某事为真（而不仅仅是告诉你某事）时，才存在论证。
+> **关键洞察**: 只有当作者试图**证明**某事为真（而不仅仅是告诉你某事）时，才存在论证。
 
 ### 2. 论证的组成部分 (Components of an Argument)
 一个标准的论证包含两个基本要素：
@@ -42,7 +36,7 @@ status: In Progress
     *   **隐含前提**: "所有名牌大学毕业生都是优秀的员工。"（这通常是个有问题的假设！）
 *   **批判性任务**: 找出这些“沉默的保镖”，检查它们是否合理。
 
-### 5. 🛠️ 刻意练习区 (Deliberate Practice)
+### 5. 刻意练习区 (Deliberate Practice)
 
 #### 活动：拆解日常对话
 > 分析下面这句话：
@@ -56,7 +50,7 @@ status: In Progress
 
 ---
 
-## 📊 关键术语卡片 (Atomic Notes)
+## 关键术语卡片 (Atomic Notes)
 - **[[Premise]]**: 前提，支持结论的陈述。
 - **[[Conclusion]]**: 结论，论证试图确立的主张。
 - **[[Non-argument]]**: 非论证，如描述、说明、感叹、提问。
@@ -64,7 +58,7 @@ status: In Progress
 
 ---
 
-## 🔗 关联知识图谱
+## 关联知识图谱
 - 前置基础: [[Ch03-Whats-their-point|Ch3 他们的核心观点是什么？]]
 - 下一章: [[Ch05-How-well-do-they-say-it|Ch5 表达清晰度评估]]
 - 核心应用: [[08-Mapping-and-evaluating-argument|Ch11 论证图解]]

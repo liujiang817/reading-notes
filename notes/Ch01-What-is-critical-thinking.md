@@ -1,11 +1,5 @@
----
-title: Ch1 什么是批判性思维
-author: Stella Cottrell
-type: chapter
-status: In Progress
----
 
-## 📝 章节概览
+## 章节概览
 > **页码范围**: P1 - P18
 > **核心目标**: 定义“批判性思维”，并识别阻碍我们进行有效思考的心理障碍。
 
@@ -26,7 +20,7 @@ status: In Progress
 - **好奇心 (Curiosity)**: 渴望弄清真假。
 - **审慎 (Judgment)**: 在证据不足时不轻易下结论。
 
-### 4. ⚠️ 批判性思维的障碍 (Barriers to Critical Thinking)
+### 4. 批判性思维的障碍 (Barriers to Critical Thinking)
 这是本章的重点，也是日常生活中最常见的思维陷阱：
 
 | 障碍类型 | 表现形式 | 我的应对策略 |
@@ -37,14 +31,14 @@ status: In Progress
 | **信息茧房 (Social conformity)** | 社交媒体只推给我喜欢看的内容，强化偏见。 | 主动订阅对立观点的信源 |
 | **情绪干扰 (Emotional block)** | 因为害怕、愤怒或尴尬而拒绝理性分析。 | 物理降温（喝水/散步）后再回头思考 |
 
-### 5. 🎯 个人行动计划 (Personal Strategies)
+### 5. 个人行动计划 (Personal Strategies)
 - **SLOW DOWN (慢下来)**: 批判性思维是耗能的，不要在疲劳或匆忙时做重大决策。
 - **提问习惯**: 把“我觉得”换成“证据是什么？”
 - **接受不确定性**: 承认“我不知道”是批判性思维的第一步。
 
 ---
 
-## 🛠️ 刻意练习区 (Deliberate Practice)
+## 刻意练习区 (Deliberate Practice)
 
 ### 案例拆解：社交媒体上的争论
 > 找一条你朋友圈或微博上的激烈争论。
@@ -54,13 +48,13 @@ status: In Progress
 
 ---
 
-## 📊 关键术语卡片 (Atomic Notes)
+## 关键术语卡片 (Atomic Notes)
 - **[[Assertion vs Argument]]**: Assertion 只是陈述事实或观点（无理由），Argument 是用理由支撑观点。
 - **[[Premises and Conclusions]]**: Premises 是理由，Conclusions 是结论。识别它们是基本功。
 - **[[Metacognition]]**: 元认知，即对“思考过程”本身的思考。
 
 ---
 
-## 🔗 关联知识图谱
+## 关联知识图谱
 - 向上承接: [[README|全书总览]]
 - 向下一章: [[Ch02-How-well-do-you-think|Ch2 评估你的思维模式]]

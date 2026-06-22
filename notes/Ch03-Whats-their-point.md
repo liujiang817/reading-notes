@@ -1,11 +1,5 @@
----
-title: Ch3 他们的核心观点是什么？
-author: Stella Cottrell
-type: chapter
-status: In Progress
----
 
-## 📝 章节概览
+## 章节概览
 > **页码范围**: P39 - P54
 > **核心目标**: 学会区分“主旨 (Point)”与“细节”，准确提炼作者的立场和结论，这是批判性评估的前提。
 
@@ -53,14 +47,14 @@ status: In Progress
 
 ---
 
-## 📊 关键术语卡片 (Atomic Notes)
+## 关键术语卡片 (Atomic Notes)
 - **[[Inference|推论]]**: 基于已知前提得出的新判断（可能是隐含的）。
 - **[[Proposition|主张]]**: 作者试图说服你接受的陈述。
 - **[[Topic vs Main Point|主题 vs 核心观点]]**: 主题是文章谈论的对象（如“气候变化”），核心观点是作者对主题的看法（如“气候变化主要是人为因素导致的”）。
 
 ---
 
-## 🔗 关联知识图谱
+## 关联知识图谱
 - 前置基础: [[Ch02-How-well-do-you-think|Ch2 你的思维水平如何？]]
 - 下一章: [[Ch04-Is-it-an-argument|Ch4 这是论证还是描述？]]
 - 相关技能: [[Reading-Speed-Techniques|高效阅读技巧]]

@@ -1,11 +1,5 @@
----
-title: Ch5 表达清晰度如何？
-author: Stella Cottrell
-type: chapter
-status: In Progress
----
 
-## 📝 章节概览
+## 章节概览
 > **页码范围**: P71 - P88
 > **核心目标**: 评估语言表达是否清晰、准确、具体，避免因模糊语言或歧义导致的逻辑误判。
 
@@ -34,7 +28,7 @@ status: In Progress
 *   **情绪化语言 (Emotive Language)**: 使用带有强烈褒贬色彩的词汇来煽动情绪，代替说理。
 *   **行话/晦涩术语 (Jargon)**: 用复杂的术语让简单的（或有缺陷的）观点显得高深莫测。
 
-### 5. 🛠️ 刻意练习区 (Deliberate Practice)
+### 5. 刻意练习区 (Deliberate Practice)
 
 #### 活动：新闻标题清洗
 > 找一条含有情绪化语言的新闻标题，例如："无良商家再次哄抬物价"。
@@ -46,7 +40,7 @@ status: In Progress
 
 ---
 
-## 📊 关键术语卡片 (Atomic Notes)
+## 关键术语卡片 (Atomic Notes)
 - **[[Vagueness]]**: 模糊性，缺乏明确的判定标准。
 - **[[Equivocation]]**: 偷换概念，在论证过程中改变词语的含义。
 - **[[Emotive Language]]**: 情绪化语言，旨在激发情感反应而非理性思考。
@@ -54,7 +48,7 @@ status: In Progress
 
 ---
 
-## 🔗 关联知识图谱
+## 关联知识图谱
 - 前置基础: [[Ch04-Is-it-an-argument|Ch4 这是论证吗？]]
 - 下一阶段: [[Ch06-Ch07-Reading-between-the-lines|Ch6&7 言外之意与逻辑推断]]
 - 写作应用: [[Ch12-Critical-analytical-writing|Ch12 批判性分析写作]]
