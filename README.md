@@ -10,7 +10,6 @@
 
 
 ## 阅读路线图 (MOC)
-*点击跳转至具体章节：*
 
 ### Part I: 思维基础 (The Basics)
 - [Ch1 What is critical thinking?](notes/Ch01-What-is-critical-thinking.md)
