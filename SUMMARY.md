@@ -1,6 +1,6 @@
-# **Summary**
+# Summary
 
-- [Critical Thinking Skills (Overview)](README.md)
+- [**Critical Thinking Skills (Overview)**](README.md)
 
 # Part I: The basics
 - [Ch01 What is critical thinking?](notes/Ch01-What-is-critical-thinking.md)
