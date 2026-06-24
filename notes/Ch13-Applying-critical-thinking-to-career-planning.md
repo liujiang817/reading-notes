@@ -1,104 +1,50 @@
+# Ch13 Applying Critical Thinking to Career Planning and Employability
 
+## 1. Summary of the Chapter
 
-> **页码范围**: P215–P232
-> 
-> **核心目标**: 打破“批判性思维只用于学术”的误区，把它落地到**职业规划、职场决策、日常问题解决**中，变成终身可用的思维习惯。
+The final chapter extends critical thinking beyond academia into professional life. It covers how to articulate CT skills in CVs and interviews, how to use CT in decision‑making (e.g., choosing a job offer), and how to apply analytical thinking in teamwork and problem‑solving at work.
 
----
+## 2. Core Concepts & Definitions
 
-## 1. 批判性思维不是“杠精技能”
-
-Cottrell 在最后一章反复强调：**批判性思维的目的是“更好地解决问题”，不是“证明别人错”**。
-
-- 错误用法：同事提了个方案，你立刻挑出10个漏洞，但不给替代方案，最后方案没通过，你也得罪了人
-    
-- 正确用法：同事提方案→你用证据指出3个可优化的漏洞→给出2个改进建议→方案通过，你也获得了认可
-    
-
----
-
-## 2. 职业规划中的批判性应用
-
-很多人做职业选择时，用的是“从众思维”或“情绪思维”，而不是批判性思维。做选择前，请用 **4问证据校验法**：
-
-|问题|对应前序章节|示例（考公vs进大厂）|
+|Term|Definition (from the book)|My Paraphrase|
 |---|---|---|
-|这个结论的来源可信吗？|Ch8-10 来源筛选|“考公稳定”是父母说的，还是有近3年公务员离职率、薪资涨幅的官方数据支撑？|
-|证据过时了吗？|Ch8-10 时效性|父母说的“大厂高薪”是10年前的数据，还是2026年的最新校招薪资？|
-|证据和结论相关吗？|Ch7 数值校验|“我同学进了大厂年薪50万”是个体案例，还是行业平均薪资？|
-|证据足够支撑结论吗？|Ch11 论证评估|只看了薪资，有没有考虑工作强度、职业生命周期、个人兴趣匹配度？|
+|**Employability**​|The set of skills and attributes that make someone likely to gain and succeed in employment.|What employers are looking for beyond technical knowledge.|
+|**STAR Technique**​|Situation, Task, Action, Result – a framework for answering behavioural interview questions.|Telling a structured story about a past achievement.|
+|**Decision Matrix**​|A grid comparing options against weighted criteria.|A pros‑and‑cons table with scores.|
 
----
+## 3. Main Arguments / Models
 
-## 3. 职场中的批判性表达公式
-
-想在职场提意见不被反感，用这个公式：
-
-> 「肯定合理部分」+「用数据指出可优化点」+「给出可落地的替代方案」
-
-- 错误表达：“你这个方案完全不考虑成本，根本行不通”
+- Employers value critical thinkers because they solve problems independently.
     
-- 正确表达：“这个方案的获客思路特别清晰（肯定），但目前测算的获客成本是行业平均的2倍（数据），如果我们可以把投放渠道从抖音换成小红书，成本能降40%，同时触达的用户群体更精准（替代方案）”
+- You must be able to _demonstrate_CT, not just claim it (use examples).
+    
+- CT helps in career planning by enabling rational comparison of opportunities.
     
 
----
+## 4. Important Quotes (with page numbers)
 
-## 4. 把批判性思维变成终身习惯
-
-Cottrell 给出了3个日常刻意练习的小方法，不需要专门抽时间：
-
-1. **新闻三问**：刷到热点新闻时，问自己：来源是谁？证据是什么？有没有反例？
-    
-2. **决策慢3秒**：做消费/人际决策前，先问“这是我真的需要，还是被营销/情绪推动了？”
-    
-3. **每周复盘1个认知偏差**：每周找一个自己犯的思维错误（比如从众、冲动消费），记在笔记里，下次刻意规避
-    
-
----
-
-## 刻意练习区
-
-### 练习：用CT做职业选择
-
-> 假设你现在面临“考公”和“进互联网”的选择，用下面的模板梳理：
+> “Critical thinking is not just for essays; it is the skill that employers consistently rank as most important.” (p.194)
 > 
-> 1. 我的初步倾向：__________________
->     
-> 2. 支撑这个倾向的证据（列3个，注明来源）：
->     
->     ① _____________**（来源：**_）
->     
->     ② _____________**（来源：**_）
->     
->     ③ _____________**（来源：**_）
->     
-> 3. 反方观点的证据（列2个，注明来源）：
->     
->     ① _____________**（来源：**_）
->     
->     ② _____________**（来源：**_）
->     
-> 4. 最终决定：_**，理由是：**_
->     
+> [My note: This motivates me to treat CT as a transferable asset, not just a course requirement.]
 
----
+## 5. Exercises & Activities Log
 
-## 关键术语卡片
+|Activity #|My Answer / Approach|Difficulty Encountered|
+|---|---|---|
+|**Activity 13.1: Mapping your CT skills**​|I listed my academic projects and extracted the CT skills used (analysis, evaluation, synthesis).|Translating academic tasks into “employer language” was challenging.|
+|**Activity 13.3: Preparing for an interview**​|I wrote STAR stories for three scenarios where I used critical thinking.|Making the stories concise yet detailed enough to impress took several rewrites.|
 
-|术语|英文|我的解释|页码|
-|---|---|---|---|
-|批判性反思|Critical Reflection|对自己的决策、认知偏差进行复盘，调整未来的思维和行为|P218|
-|可迁移技能|Transferable Skills|批判性思维这种能用到学术、职场、生活所有场景的能力|P225|
-|建设性反馈|Constructive Feedback|既指出问题，又给出解决方案的职场沟通方式|P221|
-|认知偏差复盘|Cognitive Bias Audit|定期回顾自己犯的思维错误，刻意规避的过程|P219|
+## 6. Critical Reflection
 
----
-
-## 关联知识图谱
-
-- 前置基础: 全书所有章节
+- **Strengths:**​ Practical and actionable; the STAR examples are directly usable.
     
-- 落地工具: [[Ch02-How-well-do-you-think|Ch2 思维障碍清单]]、[[meta/glossary|术语表]]
+- **Weaknesses:**​ The chapter is somewhat generic; career advice varies greatly by industry and country.
     
-- 延伸阅读: [[穷查理宝典]]（查理·芒格的人类误判心理学，和本书认知偏差部分高度互补）
+- **Connections:**​ This closes the loop from Ch.1 (definition) to real‑world impact.
     
+
+## 7. Practical Application (to my thesis/work/study)
+
+- **Action:**​ I will update my CV with a “Critical Thinking” section listing specific skills (e.g., argument mapping, fallacy detection, source evaluation).
+    
+- **Interview prep:**​ Practise articulating my thesis methodology as an example of analytical problem‑solving.

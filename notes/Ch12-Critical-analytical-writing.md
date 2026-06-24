@@ -1,84 +1,50 @@
+# Ch12 Critical Reflection
 
-> **页码范围**: P197–P214
-> 
-> **核心目标**: 把前11章学到的批判性思维能力，转化为**结构清晰、证据扎实、逻辑闭环**的学术/专业写作文本，避免“思维到位但写不出来”的困境。
+## 1. Summary of the Chapter
 
+This chapter shifts the focus inward: reflecting on one’s own thinking processes, biases, and intellectual habits. It introduces models of reflection (e.g., Gibbs’ Reflective Cycle) and encourages regular practice to identify areas for improvement. Reflection is framed as essential for lifelong learning and academic growth.
 
-## 1. 批判性写作≠挑刺写作
+## 2. Core Concepts & Definitions
 
-很多人的误区：把“批判性”写成“我反对所有观点”“到处找漏洞”。Cottrell 明确区分了两种批判：
-
-|类型|特征|后果|
+|Term|Definition (from the book)|My Paraphrase|
 |---|---|---|
-|**破坏性批判**​|只否定不给出路，只说“不对”不说“怎么对”|被视作杠精，无法说服读者|
-|**建设性批判**​|先认可合理部分，再指出漏洞，最后给出更优方案|学术写作的核心要求，能获得评审认可|
+|**Reflection‑on‑Action**​|Looking back at a past experience to analyse what happened and why.|Post‑mortem of my own thinking.|
+|**Reflection‑in‑Action**​|Thinking critically _while_doing something (real‑time adjustment).|Monitoring my reasoning as I write or discuss.|
+|**Intellectual Humility**​|Recognising the limits of one’s own knowledge and being open to being wrong.|Admitting “I might be mistaken” without shame.|
 
-> 核心原则：批判性写作的本质是「**用证据支撑你的立场，同时诚实回应反方观点**」。
+## 3. Main Arguments / Models
 
----
-
-## 2. 万能写作框架：PEEL 结构
-
-Cottrell 在书中重点推荐每个主体段用 **PEEL**​ 结构，这是学术写作的“标准化零件”，能彻底避免逻辑跳跃：
-
-|环节|英文|作用|示例|
-|---|---|---|---|
-|**Point (观点)**​|本段核心主张，直接回应论文题目|让读者第一眼知道你要讲什么|“线上教学会降低大学生的课堂参与度”|
-|**Evidence (证据)**​|支撑观点的具体材料（数据/文献/案例）|避免空口无凭|“2024年教育部高校教学报告显示，线上课平均出勤率比线下低18%，互动频次低42%”|
-|**Explanation (解释)**​|说明证据**如何**支撑观点，填补逻辑 gap|避免“摆证据不分析”的常见错误|“出勤率和互动频次的双低，直接导致学生对知识点的吸收效率下降，最终体现为参与度不足”|
-|**Link (关联)**​|把本段观点拉回全文核心论点|避免段落脱节|“这说明线上教学的固有属性，会削弱整体教学效果，尤其对自律性较差的大学生群体影响更明显”|
-
----
-
-## 3. 写作中必须规避的3类逻辑漏洞
-
-这些问题在前面的章节讲过，但在写作中最容易出现，需重点检查：
-
-1. **证据与观点脱节**：摆了一堆数据，但没说清楚数据和观点的关系（比如放了一堆疫情数据，却没说这些数据怎么证明“线上教学差”）
+- Critical thinking must include self‑critique; otherwise it becomes arrogance.
     
-2. **忽略反方观点**：只说自己观点的好处，对明显的反例视而不见（比如只说线上教学的缺点，不提它对偏远地区学生的可及性优势）
+- Regular reflection helps identify recurring errors (e.g., always jumping to conclusions).
     
-3. **情绪化表达**：用“显然”“毋庸置疑”代替证据，或用贬义词攻击反方（比如“支持线上教学的人根本不懂教育”）
+- A structured reflection model (describe → analyse → evaluate → plan) makes the process more effective.
     
 
----
+## 4. Important Quotes (with page numbers)
 
-## 刻意练习区
-
-### 练习：改写烂段落
-
-> 原段落（学生论文常见错误）：“线上教学一点都不好，我上学期上网课的时候经常走神，而且我同学也说线上课听不懂，所以大学应该取消所有线上课。”
+> “The most difficult person to think critically about is yourself.” (p.176)
 > 
-> 请用 PEEL 结构重写这段，补全漏洞，让它符合批判性写作要求：
-> 
-> 1. **Point**: ___________________________
->     
-> 2. **Evidence**: ___________________________
->     
-> 3. **Explanation**: ___________________________
->     
-> 4. **Link**: ___________________________
->     
-> 5. 你补充了哪些反方观点？怎么回应的？___________________________
->     
+> [My note: This is the hardest lesson in the book.]
 
----
+## 5. Exercises & Activities Log
 
-## 关键术语卡片
+|Activity #|My Answer / Approach|Difficulty Encountered|
+|---|---|---|
+|**Activity 12.1: Reflecting on a past argument**​|I wrote a short reflection on a debate I lost, analysing where my reasoning broke down.|Being honest about my emotional investment was uncomfortable but revealing.|
+|**Activity 12.3: Creating a personal development plan**​|I listed three thinking skills to improve over the next semester.|Setting measurable goals (e.g., “spot 5 fallacies per week”) was harder than expected.|
 
-|术语|英文|我的解释|页码|
-|---|---|---|---|
-|批判性分析写作|Critical Analytical Writing|用证据支撑立场、同时回应反方观点的建设性写作|P199|
-|PEEL 结构|PEEL Structure|主体段四要素：观点-证据-解释-关联|P203|
-|建设性批判|Constructive Criticism|指出漏洞的同时给出可改进的替代方案|P201|
-|立场声明|Thesis Statement|全文核心观点，所有段落都要围绕它展开|P205|
+## 6. Critical Reflection
 
----
-
-## 关联知识图谱
-
-- 前置基础: [[08-Mapping-and-evaluating-argument|Ch11 论证图解与评估]]、[[Ch8-Ch9-Ch10-Where-is-the-proof|Ch8-10 信息来源筛选]]
+- **Strengths:**​ The chapter legitimises introspection as an academic skill.
     
-- 后续应用: [[Ch13-Applying-critical-thinking-to-career-planning|Ch13 批判性反思与落地]]
+- **Weaknesses:**​ Reflection can become navel‑gazing without external feedback; pairing it with peer review would strengthen it.
     
-- 写作工具: [[meta/fallacies-checklist|逻辑谬误速查表]]（避免写作中踩坑）
+- **Connections:**​ This aligns with Ch.2 (self‑assessment) but goes deeper into ongoing practice.
+    
+
+## 7. Practical Application (to my thesis/work/study)
+
+- **Action:**​ I will schedule a 15‑minute weekly “reflection slot” to review my progress and mistakes.
+    
+- **Journal:**​ Keep a reflective log attached to my thesis writing process.

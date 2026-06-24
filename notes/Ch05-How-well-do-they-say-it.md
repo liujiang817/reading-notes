@@ -1,50 +1,48 @@
-# How well do they say it
+# Ch05 How Well Do They Say It? Clarity, Consistency and Structure
 
-> **页码范围**: P71 - P88
-> **核心目标**: 评估语言表达是否清晰、准确、具体，避免因模糊语言或歧义导致的逻辑误判。
+## 1. Summary of the Chapter
 
-## 清晰性 (Clarity)
-如果不知道作者在说什么，就无法进行批判性评估。
-*   **模糊 (Vagueness)**: 词语边界不明确。
-    *   *例子*: "很快 (Soon)" —— 是1分钟还是1小时？
-*   **歧义 (Ambiguity)**: 一个词或句子有多个含义。
-    *   *例子*: "我去银行 (Bank)" —— 是河岸还是金融机构？
-*   **批判性任务**: 当遇到模糊词汇时，询问："具体指什么？" "在什么范围内？"
+Focuses on the _quality_of the argument's presentation. It covers internal consistency (not contradicting oneself) and logical consistency (premises working together). It also addresses structural issues like ambiguous language and poorly ordered reasons.
 
-## 准确性与精确度 (Accuracy & Precision)
-*   **准确性**: 是否真实反映了现实？（如：地图上没有错误）
-*   **精确度**: 描述的细致程度。（如：地图的比例尺大小）
-*   **例子**: "我有钱" (不准确且模糊) vs "我的存款是 50,234.5 元" (精确且准确)。
+## 2. Core Concepts & Definitions
 
-## 具体性 (Specificity)
-避免空泛的概括 (Empty Generalisations)。
-*   **空泛**: "这项政策对经济有好处。"
-*   **具体**: "这项政策预计将使制造业的 GDP 增长 2%，但会增加 1% 的通货膨胀率。"
-*   **技巧**: 寻找**数字、日期、专有名词、具体案例**。
+|Term|Definition (from the book)|My Paraphrase|
+|---|---|---|
+|**Internal Consistency**​|Ensuring the author does not contradict themselves within the same text.|Saying "A" and then later saying "Not A" in the same argument.|
+|**Logical Consistency**​|Whether the reasons provided genuinely support the conclusion without clashing.|Do all the pieces of evidence fit together logically?|
+|**Ambiguity**​|Vague or unclear language that can lead to multiple interpretations.|Words that leave room for doubt about what is actually meant.|
 
-## 修辞陷阱 (Rhetorical Traps)
-作者有时会利用语言操纵情感，掩盖逻辑的薄弱。
-*   **委婉语 (Euphemism)**: 用中性词掩盖负面事实（如 "附带损害" 代替 "平民伤亡"）。
-*   **情绪化语言 (Emotive Language)**: 使用带有强烈褒贬色彩的词汇来煽动情绪，代替说理。
-*   **行话/晦涩术语 (Jargon)**: 用复杂的术语让简单的（或有缺陷的）观点显得高深莫测。
+## 3. Main Arguments / Models
 
-## 刻意练习区 (Deliberate Practice)
+- A good argument must first be clear before it can be evaluated.
+    
+- Inconsistencies (either internal or logical) destroy the strength of an argument.
+    
+- The order of reasons matters: foundational points should come first.
+    
 
-### 活动：新闻标题清洗
-> 找一条含有情绪化语言的新闻标题，例如："无良商家再次哄抬物价"。
->
-> 1. **识别情绪词**: 圈出 "无良"、"哄抬"。
-> 2. **还原事实**: 去掉形容词，只保留事实陈述。
->    *   *改写*: "某商家将商品价格上调了 20%。"
-> 3. **评估**: 改写后的陈述是否依然支持原来的结论？还是变得中立了？
+## 4. Important Quotes (with page numbers)
 
-## 关键术语卡片 (Atomic Notes)
-- **[[Vagueness]]**: 模糊性，缺乏明确的判定标准。
-- **[[Equivocation]]**: 偷换概念，在论证过程中改变词语的含义。
-- **[[Emotive Language]]**: 情绪化语言，旨在激发情感反应而非理性思考。
-- **[[Loaded Question]]**: 诱导性问题（如："你还在作弊吗？"），预设了未经证实的前提。
+> "If the author is inconsistent, either they have changed their mind (and thus have two arguments), or their argument is flawed." (p.61)
+> 
+> [My note: Inconsistency is a red flag that requires investigation.]
 
-## 关联知识图谱
-- 前置基础: [[Ch04-Is-it-an-argument|Ch4 这是论证吗？]]
-- 下一阶段: [[Ch06-Ch07-Reading-between-the-lines|Ch6&7 言外之意与逻辑推断]]
-- 写作应用: [[Ch12-Critical-analytical-writing|Ch12 批判性分析写作]]
+## 5. Exercises & Activities Log
+
+|Activity #|My Answer / Approach|Difficulty Encountered|
+|---|---|---|
+|**Activity 5.1: Internal consistency**​|_[Scanning]_I read a text looking specifically for contradictory statements.|Sometimes contradictions are subtle and depend on implied meaning.|
+|**Activity 5.4: Logical order**​|_[Rearranging]_I took a jumbled set of reasons and tried to put them in a logical sequence.|Deciding which reason is the "base" layer can be tricky.|
+
+## 6. Critical Reflection
+
+- **Strengths:**​ The focus on structure helps me diagnose why some papers are frustrating to read—they lack logical flow.
+    
+- **Weaknesses:**​ Judging "clarity" can be subjective; what is clear to one reader may not be clear to another.
+    
+- **Connections:**​ This is directly applicable to my own writing. I often jump straight to conclusions without setting up the logical steps first.
+    
+
+## 7. Practical Application (to my thesis/work/study)
+
+- **Action:**​ I will use the "Logical Consistency" check when reviewing my draft. I will ask: "Does every paragraph actually support the thesis statement, or are there 'red herrings'?"

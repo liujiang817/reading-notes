@@ -1,49 +1,50 @@
-# How well do you think
+# Ch02 How Well Do You Think? Develop Your Thinking Skills
 
-> **页码范围**: P19 - P38 
-> **核心目标**: 通过自评问卷，识别自己在思维过程中的优势与短板，特别是针对“认知偏差”的觉察。
+## 1. Summary of the Chapter
 
-## 思维风格自评 (Self-evaluation)
+This chapter establishes a foundation for improving critical thinking by helping readers assess their current cognitive abilities. It distinguishes between innate "natural" thinking and developed "critical" thinking. Key strategies introduced include metacognition (thinking about thinking), focusing attention to identify patterns and sequences, and active reading techniques to deepen understanding.
 
-本章包含了一系列问卷（如 P24-25 的活动），旨在让你诚实地面对自己的思维习惯。  
-**关键点**: 不要为了“看起来好”而答题，批判性思维是关于**准确性 (Accuracy)**，而不是自我美化。
+## 2. Core Concepts & Definitions
 
-## 常见的不良思维习惯 (Poor Thinking Habits)
+|Term|Definition (from the book)|My Paraphrase|
+|---|---|---|
+|**Metacognition**​|Awareness and understanding of one's own thought processes.|Checking in with myself to see if I'm actually reasoning or just reacting.|
+|**Cognitive Biases**​|Systematic patterns of deviation from norm or rationality in judgment.|Mental shortcuts that can lead to unfair or incorrect conclusions.|
+|**Active Reading**​|Engaging with text by questioning, summarizing, and making connections, rather than passively skimming.|Interacting with the material instead of just letting my eyes scan the page.|
 
-Cottrell 列举了许多阻碍我们成为优秀思考者的习惯。请对照检查：
+## 3. Main Arguments / Models
 
-| 不良习惯 | 具体表现 | 改进方向 |
-| :--- | :--- | :--- |
-| **冲动型 (Impulsiveness)** | 抢跑，没听完问题就下结论；只看标题就评论。 | 练习“三秒暂停”，强迫自己听完前提。 |
-| **从众心理 (Conformity)** | 害怕被视为异类，即使内心不同意也随大流。 | 在会议中刻意扮演“魔鬼代言人”。 |
-| **固执己见 (Rigidity)** | 拒绝改变主意，即使面对新证据。 | 练习说：“基于这个新证据，我修改了我的看法。” |
-| **简化思维 (Over-simplification)** | 把复杂问题归结为单一原因（“都是因为XX”）。 | 寻找至少 3 个导致问题的原因。 |
-| **情绪化 (Emotionalism)** | 一旦感到被冒犯就停止逻辑思考，转为攻击人身。 | 识别“情绪触发点”，将其与逻辑分离。 |
+- Good thinking is not automatic; it requires conscious effort and discipline.
+    
+- We must learn to "focus attention" to move from vague impressions to precise analysis.
+    
+- Barriers to critical thinking (such as emotional reactions or social conformity) must be identified to overcome them.
+    
 
-## 批判性思维者的特征 (Attributes of a Critical Thinker)
+## 4. Important Quotes (with page numbers)
 
-*   **谦逊 (Humility)**: 承认“我不知道”或“我可能错了”。
-*   **独立性 (Independence)**: 敢于持有与主流不同的、但有证据支持的见解。
-*   **同理心 (Empathy)**: 能够站在对方的立场理解其论证的逻辑（即使不同意）。
-*   **韧性 (Resilience)**: 面对复杂难题时不轻易放弃，享受解决问题的过程。
+> "Critical thinking involves controlling your own thought processes so that you think clearly and rationally." (p.16)
+> 
+> [My note: This highlights the _personal responsibility_aspect of CT.]
 
-## 刻意练习区 (Deliberate Practice)
+## 5. Exercises & Activities Log
 
-### 活动：思维习惯审计
+|Activity #|My Answer / Approach|Difficulty Encountered|
+|---|---|---|
+|**Activity 2.2: Scoring Sheet**​|_[Self-assessment]_I rated myself high on "Identifying differences" but low on "Recognizing sequence."|I realized I often miss the logical order of events in complex arguments.|
+|**Activity 2.3: Focusing Attention**​|_[Practice]_I tried to identify the sequence of arguments in a news article instead of just the headline.|It was challenging to ignore my pre-existing opinions about the topic.|
 
- 回想最近一次你与人争论或做出错误决策的经历。  
-1. **识别习惯**: 对照上表，你当时主要犯了哪一条错误？（例如：冲动型）  
-2. **重构场景**: 如果重来一次，你会如何在开口前加入一个“批判性检查步骤”？   
-3. **制定策略**: 下次遇到类似情况，你会对自己说什么来阻止惯性思维？    
-  *   *示例*: “先别急着回怼，先复述一遍对方的逻辑。”
+## 6. Critical Reflection
 
-## 关键术语卡片 (Atomic Notes)
-- **[[Cognitive Biases|认知偏差]]**: 大脑为了节省能量而产生的系统性思维捷径，往往会导致错误判断。
-- **[[Intuitive vs Critical|直觉思维 vs 批判思维]]**: 直觉快但易错，批判慢但准确。两者需要平衡，而非互相取代。
-- **[[Mindfulness in Thinking|思维正念]]**: 时刻监控自己的思维过程，意识到自己正在“偷懒”或“情绪化”。
+- **Strengths:**​ The self-assessment quiz is a great starting point because it forces honesty about my weaknesses.
+    
+- **Weaknesses:**​ Some of the barriers to thinking (like "cultural conventions") feel very abstract and hard to measure.
+    
+- **Connections:**​ This relates to psychological concepts like "growth mindset" — believing I can improve my thinking with practice.
+    
 
+## 7. Practical Application (to my thesis/work/study)
 
-## 关联知识图谱
-- 前置基础: [[Ch01-What-is-critical-thinking|Ch1 什么是批判性思维]]
-- 下一章: [[Ch03-Whats-their-point|Ch3 他们的核心观点是什么？]]
-- 相关附录: [[meta/cognitive-biases-list|认知偏差大全]]
+- **Action:**​ Before reading any dense theoretical text for my thesis, I will use the "Close reading" technique outlined in Activity 2.4.
+    
+- **Plan:**​ I will keep a "Thinking Skills" journal to track whether I am improving in recognizing sequences and categorizing arguments.

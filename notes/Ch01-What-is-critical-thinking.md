@@ -1,58 +1,33 @@
-# What is critical thinking
+# Ch01 What is Critical Thinking?
 
-> **页码范围**: P1 - P18  
-> **核心目标**: 定义“批判性思维”，并识别阻碍我们进行有效思考的心理障碍。
+## 1. Chapter Summary
+This chapter defines critical thinking as purposeful, reflective judgment that involves analyzing evidence, identifying assumptions, and evaluating arguments. It distinguishes critical thinking from mere opinion or passive learning, and outlines the habits of mind required (openness, skepticism, fairness). The chapter also previews the book’s overall structure and learning outcomes.
 
-## 核心定义
+## 2. Key Concepts & Terminology
+| Term | Definition (from the book) | My Paraphrase |
+|------|----------------------------|---------------|
+| Critical thinking | Purposeful, self-regulatory judgment that results in interpretation, analysis, evaluation, and inference. | Thinking carefully and logically before accepting or rejecting an idea. |
+| Assumption | Something taken for granted without proof. | An unstated belief that supports an argument. |
 
-* **批判性思维 (Critical Thinking)** 不仅仅是“挑毛病”或“持怀疑态度”。
-* **本质**: 它是**主动**分析、评估和重构(arguments)的过程。
-* **关键动词**: 质疑 (Questioning)、探究 (Probing)、推理 (Reasoning)、反思 (Reflecting)。
+## 3. Main Arguments / Models / Tools
+- Critical thinking is not just being negative; it is constructive and evaluative.
+- A good critical thinker is curious, humble, and willing to change their mind.
+- The book uses a step‑by‑step approach: identify arguments → evaluate them → build your own.
 
-## 思维的层次
+## 4. Important Quotes (with page numbers)
+> “Critical thinking does not mean simply being critical in a negative sense; it means being able to evaluate information in a balanced way.” (p.4)
+> [My note: This corrects a common misunderstanding – critical ≠ cynical.]
 
-书中提到，我们需要避免停留在低阶思维：  
-1. **Passive Acceptance (被动接受)**: "大家都这么说，肯定对。"  
-2. **Reactive Thinking (反应性思维)**: "我讨厌这个观点，所以它一定是错的。"  
-3. **Active Critical Thinking (主动性批判性思维)**: "无论喜不喜欢，我来检验一下它的证据和逻辑。"
+## 5. Exercises & Activities Log
+| Activity # | My Answer / Approach | Difficulty Encountered |
+|------------|----------------------|------------------------|
+| Activity 1.1 | I rated myself 3/5 on questioning sources. | Hard to be honest about my weaknesses. |
 
-## 批判性思维的基石
+## 6. Critical Reflection
+- Strengths: Clear distinction between critical thinking and everyday thinking.
+- Weaknesses: The definition is quite broad; could benefit from more concrete examples across disciplines.
+- Connections: Similar to Bloom’s taxonomy “evaluate” level.
 
-这不仅仅是智商问题，更是习惯的培养：  
-- **自我觉察 (Self-awareness)**: 知道自己容易在哪里偏航。   
-- **好奇心 (Curiosity)**: 渴望弄清真假。 
-- **审慎 (Judgment)**: 在证据不足时不轻易下结论。
-
-## 批判性思维的障碍
-
-| 障碍类型 | 表现形式 | 应对策略 |
-| --- | --- | --- |
-| 自我中心主义 (Egocentrism) | 只接受支持自己观点的信息 | 强制寻找反例 |
-| 群体思维 (Groupthink) | 为团队和谐放弃质疑 | 先书面记录疑虑再讨论 |
-| 权威崇拜 (Authority) | 盲目相信专家/上级 | 核查专家的领域资质 |
-| 信息茧房 (Social conformity) | 算法强化固有偏见 | 主动订阅对立信源 |
-| 情绪干扰 (Emotional block) | 情绪主导拒绝理性 | 平复后再做判断 |
-
-## 个人行动计划
-
-- **慢下来**: 疲劳或匆忙时不做重大决策
-- **替换表达**: 把“我觉得”改为“证据是什么”
-- **接纳不确定性**: 承认“我不知道”是批判性思维的第一步
-
-## 刻意练习区
-
-> **案例拆解：社交媒体争论** 
-> 1. 识别双方立场 
-> 2. 区分事实依据与情绪宣泄 
-> 3. 判断争论停滞的思维障碍（如人身攻击）
-
-## 关键术语卡片
-
-- **断言 (Assertion) vs 论证 (Argument)**：断言是无理由的陈述，论证是用理由支撑观点的结构
-- **前提 (Premises) 与结论 (Conclusions)**：前提是支撑结论的理由，识别二者是基础能力
-- **元认知 (Metacognition)**：对思考过程本身的监控与反思
-
-## 关联知识图谱
-
-- 上一章：[全书总览](../README.md)
-- 下一章：[Ch2 评估你的思维模式](Ch02-How-well-do-you-think.md)
+## 7. Practical Application (to my thesis/work/study)
+- Start each reading session by asking: “What is the author’s main claim? What evidence do they provide?”
+- Create a checklist of critical questions to use when reviewing literature.

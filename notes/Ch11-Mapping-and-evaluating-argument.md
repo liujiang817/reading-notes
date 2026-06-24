@@ -1,99 +1,51 @@
+# Ch11 Mapping and Evaluating Arguments
 
+## 1. Summary of the Chapter
 
-> **页码范围**: P179–P196
-> 
-> **核心目标**: 掌握论证地图（Argument Mapping）的绘制方法，用可视化工具拆解复杂论证，系统评估论证的有效性。
+This chapter introduces **argument mapping**​ as a visual tool to represent the logical structure of complex arguments. Maps show how premises relate to conclusions (linked, convergent, divergent). Combined with fallacy detection (Ch.7), mapping allows a systematic evaluation of argument strength. This is a new or expanded feature in the 4th edition.
 
----
+## 2. Core Concepts & Definitions
 
-## 1. 什么是论证地图？
-
-论证地图是把线性的文字论证转化为**可视化逻辑树**的工具，核心作用是：
-
-- 把藏在长文本里的隐含假设、子前提「揪出来」
-    
-- 直观看到前提和结论之间的支撑关系，避免逻辑断层
-    
-- 快速定位论证的薄弱环节（比如某个前提不成立，整个论证崩塌）
-    
-
-### 文字版论证地图示例（用之前的护肤品案例）
-
-> 原论证：“这款护肤品通过了敏感肌测试，所以适合所有肤质。”
-
-```
-【隐含假设：所有肤质的耐受度/需求完全一致】
-                    ↓
-【前提1：这款护肤品通过了敏感肌测试（无过敏反应）】
-                    ↓
-【结论：这款护肤品适合所有肤质】
-```
-
-> HonKit 提示：如果你用 Obsidian Canvas 绘制更复杂的论证地图，可以导出为 PNG 图片插入到这里，视觉效果会更清晰。
-
----
-
-## 2. 论证地图绘制规则
-
-1. **结论放最右侧**：作为逻辑树的终点，用方框/加粗标记
-    
-2. **前提放左侧**：按支撑层级排列，直接支撑结论的前提放在靠近结论的位置
-    
-3. **用箭头表示支撑关系**：箭头从前提指向结论/上级前提
-    
-4. **隐含假设用虚线标记**：和明确写出来的前提区分开
-    
-5. **子论证单独分支**：如果一个前提本身需要多个理由支撑，单独拉一个分支
-    
-
----
-
-## 3. 论证评估四维度（Cottrell 黄金标准）
-
-画完论证地图后，按这四个标准逐一检查，只要有一个不满足，论证就不成立：
-
-|评估维度|核心问题|常见漏洞|
+|Term|Definition (from the book)|My Paraphrase|
 |---|---|---|
-|**真实性 (Truth)**​|所有前提都符合事实吗？|前提本身就是假的（比如“地球是平的”支撑“南极没有熊”）|
-|**相关性 (Relevance)**​|前提和结论有直接逻辑关联吗？|偷换概念、答非所问（比如用“销量高”证明“产品质量好”）|
-|**充分性 (Sufficiency)**​|前提的数量和质量足够支撑结论吗？|以偏概全、样本量不足（比如“10个人试用有效”证明“适合所有人”）|
-|**无循环性 (Non-circularity)**​|前提有没有预设结论成立？|循环论证（比如“圣经是真的，因为圣经里说圣经是真的”）|
+|**Argument Map**​|A diagram showing propositions (claims) and the inferential connections between them.|A flowchart of logic.|
+|**Linked Support**​|Two or more premises that work together to support a conclusion; if one fails, the support weakens.|Both reasons are needed; neither works alone.|
+|**Convergent Support**​|Multiple independent premises each separately support the conclusion.|Each reason stands on its own; losing one doesn’t collapse the argument.|
+|**Rebutting Premise**​|A premise that opposes the conclusion (counter‑argument).|The “on the other hand” box in the map.|
 
----
+## 3. Main Arguments / Models
 
-## 刻意练习区
+- Visualising an argument reveals hidden gaps and redundancies.
+    
+- Mapping forces you to be explicit about every logical step.
+    
+- The strongest arguments have multiple convergent lines of support with few unstated assumptions.
+    
 
-### 练习：拆解“红酒与健康”的论证
+## 4. Important Quotes (with page numbers)
 
-> 原论证：“研究发现喝红酒的人平均寿命更长，所以喝红酒能延年益寿。”
+> “Drawing an argument map is like creating an x‑ray of the reasoning.” (p.158)
 > 
-> 1. 用上面的规则画论证地图，标出所有隐含假设
->     
-> 2. 按四维度评估：这个论证成立吗？如果不成立，漏洞在哪个维度？
->     
-> 3. 重写一个逻辑严谨的版本，需要补充哪些前提/证据？
->     
+> [My note: This metaphor captures how maps expose what is usually invisible.]
 
----
+## 5. Exercises & Activities Log
 
-## 关键术语卡片
+|Activity #|My Answer / Approach|Difficulty Encountered|
+|---|---|---|
+|**Activity 11.1: Drawing a simple map**​|I mapped a short editorial (3 premises, 1 conclusion).|Deciding whether premises were linked or convergent was ambiguous.|
+|**Activity 11.3: Evaluating a mapped argument**​|I applied the “relevance‑acceptability‑support” test to each premise.|Some premises seemed acceptable but not relevant to the conclusion.|
 
-|术语|英文|我的解释|页码|
-|---|---|---|---|
-|论证地图|Argument Mapping|用可视化节点展示前提与结论支撑关系的工具|Ch11 P182|
-|子论证|Sub-argument|用来支撑某个前提的独立论证链条|Ch11 P185|
-|循环论证|Circular Reasoning|用结论本身当前提，逻辑上等同于“因为我是所以我是对的”|Ch11 P191|
-|前提链|Premise Chain|多个前提依次支撑形成的逻辑链条|Ch11 P183|
+## 6. Critical Reflection
 
----
-
-## 关联知识图谱
-
-- 前置基础: [[Ch8-Ch9-Ch10-Where-is-the-proof|Ch8-10 信息来源与批判性阅读]]、[[Ch04-Is-it-an-argument|Ch4 这是论证吗？]]
+- **Strengths:**​ Mapping is excellent for untangling dense theoretical texts.
     
-- 后续章节: [[Ch12-Critical-analytical-writing|Ch12 批判性分析写作]]
+- **Weaknesses:**​ Maps can become unwieldy for long arguments; software helps but adds a learning curve.
     
-- 核心工具: [[meta/fallacies-checklist|逻辑谬误速查表]]
+- **Connections:**​ This complements Ch.7 (fallacies) because fallacies often appear as missing links or inappropriate connections on the map.
     
 
----
+## 7. Practical Application (to my thesis/work/study)
+
+- **Action:**​ I will map the core argument of my thesis introduction to check if my reasoning chain is complete.
+    
+- **Tool:**​ I will try free argument‑mapping software (e.g., Rationale, MindMup) for complex chapters.

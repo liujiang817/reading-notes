@@ -1,4 +1,3 @@
-
 # 术语表 (Glossary) 
 
 > 本表收录《Critical Thinking Skills (2023 4th Ed.)》全部核心概念，按字母顺序排列，括号内为对应章节。
